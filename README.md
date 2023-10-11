@@ -1,5 +1,5 @@
 # watch(ref, callback)
-Utility to call function ont reactive variable change
+Utility to call function on reactive variable change
 * ref: RefImpl object. watch function invokes callback if .value property was changed.
 * callback: A function, that accepts a new ref as a first argument.
 
